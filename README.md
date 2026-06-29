@@ -31,12 +31,6 @@ My primary focus is on building practical software, exploring new technologies, 
 | Cybersecurity       | Exploring security concepts and tooling     |
 | Formula 1 Analytics | Developing telemetry and analytics projects |
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYANKJOSHIcoder\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKJOSHIcoder\&layout=compact\&hide_border=true)
-
 ---
 
 Most repositories on this profile represent projects created for learning, experimentation, and technical exploration.
