@@ -1,16 +1,42 @@
-## Hi there 👋
+# Mayank Joshi
 
-<!--
-**MAYANKJOSHIcoder/MAYANKJOSHIcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate interested in software development, cybersecurity, and data-driven applications. This GitHub profile contains personal projects, hackathon submissions, and academic work completed as part of my learning journey.
 
-Here are some ideas to get you started:
+My primary focus is on building practical software, exploring new technologies, and improving my understanding of modern development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+| Area                 | Description                                     |
+| -------------------- | ----------------------------------------------- |
+| Software Development | Full-stack web applications and backend systems |
+| Cybersecurity        | Security analysis and vulnerability research    |
+| Data Applications    | Analytics, visualization, and telemetry         |
+| Hackathons           | Building solutions under real-world constraints |
+
+## Technical Skills
+
+| Category  | Technologies                |
+| --------- | --------------------------- |
+| Languages | Python, JavaScript, Java, C |
+| Frontend  | React, Next.js, HTML, CSS   |
+| Backend   | Flask, Node.js              |
+| Databases | MySQL, SQLite               |
+| Tools     | Git, GitHub                 |
+
+## Current Focus
+
+| Topic               | Description                                 |
+| ------------------- | ------------------------------------------- |
+| Web Development     | Building modern web applications            |
+| Cybersecurity       | Exploring security concepts and tooling     |
+| Formula 1 Analytics | Developing telemetry and analytics projects |
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYANKJOSHIcoder\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKJOSHIcoder\&layout=compact\&hide_border=true)
+
+---
+
+Most repositories on this profile represent projects created for learning, experimentation, and technical exploration.
