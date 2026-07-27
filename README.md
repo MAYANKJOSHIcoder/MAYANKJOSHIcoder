@@ -91,14 +91,13 @@ Claude Code • OpenClaw
 
 A personal portfolio website showcasing my projects, technical skills, and development journey.
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MAYANKJOSHIcoder/mayank_joshi">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <br>
 
-<a href="https://github.com/MAYANKJOSHIcoder/mayank_joshi"><b>View Repository</b></a>
 </p>
 
 </td>
@@ -113,14 +112,13 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 A modern Formula 1 website featuring race information, statistics, and analytics dedicated to Max Verstappen.
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MAYANKJOSHIcoder/Max-Verstappen">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <br>
 
-<a href="https://github.com/MAYANKJOSHIcoder/Max-Verstappen"><b>View Repository</b></a>
 </p>
 
 </td>
@@ -135,14 +133,13 @@ A modern Formula 1 website featuring race information, statistics, and analytics
 
 A cybersecurity platform focused on vulnerability scanning, security analysis, and secure software development practices.
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MAYANKJOSHIcoder/VULSCAN">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <br>
 
-<a href="https://github.com/MAYANKJOSHIcoder/VULSCAN"><b>View Repository</b></a>
 </p>
 
 </td>
@@ -153,14 +150,13 @@ A cybersecurity platform focused on vulnerability scanning, security analysis, a
 
 A TensorFlow-based deep learning project that trains a convolutional neural network to classify cat and dog images.
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MAYANKJOSHIcoder/AI-train-to-pridict-cat-and-dog">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <br>
 
-<a href="https://github.com/MAYANKJOSHIcoder/AI-train-to-pridict-cat-and-dog"><b>View Repository</b></a>
 </p>
 
 </td>
