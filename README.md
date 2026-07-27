@@ -16,7 +16,7 @@ I enjoy building practical software, exploring cybersecurity, and developing dat
 
 ## About
 
-I am a Computer Science undergraduate interested in software development, cybersecurity, and data-driven applications. I enjoy building practical software, learning modern technologies, and improving my understanding of secure and scalable software engineering through projects and continuous learning.
+I am a Computer Science undergraduate interested in software development, cybersecurity, and data-driven applications. My GitHub profile contains personal projects, hackathon submissions, and academic work completed as part of my learning journey. I enjoy building practical software, exploring modern technologies, and continuously improving my understanding of secure and scalable software engineering.
 
 ## Connect
 
@@ -78,80 +78,106 @@ Claude Code • OpenClaw
 
 ## Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### Personal Website
 
 <p align="center">
-<img src="assets/personal-website.png" width="900" alt="Personal Website Screenshot">
+<img src="assets/personal-website.png" width="100%" alt="Personal Website">
 </p>
 
-Personal portfolio website showcasing my projects, skills, and development journey.
+A personal portfolio website showcasing my projects, technical skills, and development journey.
 
-<p>
+<p align="center">
 <a href="https://github.com/MAYANKJOSHIcoder/mayank_joshi">
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
-<a href="https://github.com/MAYANKJOSHIcoder/mayank_joshi"><b> Repository</b></a>
+
+<br>
+
+<a href="https://github.com/MAYANKJOSHIcoder/mayank_joshi"><b>View Repository</b></a>
 </p>
 
----
+</td>
 
-### VULSCAN
-
-<p align="center">
-<img src="assets/vulscan.png" width="900" alt="VULSCAN Screenshot">
-</p>
-
-A vulnerability scanning platform focused on security analysis and secure software practices.
-
-<p>
-<a href="https://github.com/MAYANKJOSHIcoder/VULSCAN">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
-</a>
-<a href="https://github.com/MAYANKJOSHIcoder/VULSCAN"><b> Repository</b></a>
-</p>
-
----
+<td width="50%" valign="top">
 
 ### Max Verstappen
 
 <p align="center">
-<img src="assets/max-verstappen.png" width="900" alt="Max Verstappen Screenshot">
+<img src="assets/max-verstappen.png" width="100%" alt="Max Verstappen">
 </p>
 
-A modern Formula 1 website featuring statistics, analytics, and information dedicated to Max Verstappen.
+A modern Formula 1 website featuring race information, statistics, and analytics dedicated to Max Verstappen.
 
-<p>
+<p align="center">
 <a href="https://github.com/MAYANKJOSHIcoder/Max-Verstappen">
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
-<a href="https://github.com/MAYANKJOSHIcoder/Max-Verstappen"><b> Repository</b></a>
+
+<br>
+
+<a href="https://github.com/MAYANKJOSHIcoder/Max-Verstappen"><b>View Repository</b></a>
 </p>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### VULSCAN
+
+A cybersecurity platform focused on vulnerability scanning, security analysis, and secure software development practices.
+
+<p align="center">
+<a href="https://github.com/MAYANKJOSHIcoder/VULSCAN">
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
+</a>
+
+<br>
+
+<a href="https://github.com/MAYANKJOSHIcoder/VULSCAN"><b>View Repository</b></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### AI Cat & Dog Classifier
 
+A TensorFlow-based deep learning project that trains a convolutional neural network to classify cat and dog images.
+
 <p align="center">
-<img src="assets/cat-dog-ai.png" width="900" alt="AI Cat and Dog Classifier Screenshot">
-</p>
-
-A TensorFlow-based deep learning project for image classification using convolutional neural networks.
-
-<p>
 <a href="https://github.com/MAYANKJOSHIcoder/AI-train-to-pridict-cat-and-dog">
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
-<a href="https://github.com/MAYANKJOSHIcoder/AI-train-to-pridict-cat-and-dog"><b> Repository</b></a>
+
+<br>
+
+<a href="https://github.com/MAYANKJOSHIcoder/AI-train-to-pridict-cat-and-dog"><b>View Repository</b></a>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MAYANKJOSHIcoder&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKJOSHIcoder&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
