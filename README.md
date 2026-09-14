@@ -169,7 +169,10 @@ A TensorFlow-based deep learning project that trains a convolutional neural netw
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MAYANKJOSHIcoder&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MAYANKJOSHIcoder&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Mayank Joshi's GitHub Statistics"
+  />
 </p>
 
 ---
